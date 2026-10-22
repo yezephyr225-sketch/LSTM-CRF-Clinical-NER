@@ -1,0 +1,16 @@
+tensorflow>=2.6.0,<2.11.0
+keras>=2.6.0,<2.11.0
+keras-contrib==2.0.8
+gensim>=4.0.0
+jieba>=0.42.1
+numpy>=1.19.5
+scikit-learn>=0.24.0
+
+依赖说明
+依赖包	用途
+tensorflow / keras	深度学习框架，搭建 LSTM 与 CRF 层
+keras-contrib	提供 CRF 层实现
+gensim	训练 / 加载 Word2Vec 词向量
+jieba	中文分词，预处理文本
+numpy	数值计算、张量处理
+scikit-learn	指标计算、数据处理
