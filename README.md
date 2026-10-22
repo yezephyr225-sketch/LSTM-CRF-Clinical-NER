@@ -22,7 +22,7 @@
 
 > 模型推理演示：输入中文电子病历文本，输出BIO格式实体标注结果。
 
-[[Uploading 婕旂ず瑙嗛~1.zip…]()
+(https://www.bilibili.com/video/BV1Nvn26tEby/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6b4676ed1f374e8bb8a7e35b210c1db8)
 
 
 ▶️点击查看项目演示视频](这里粘贴GitHub自动生成你的视频链接)
